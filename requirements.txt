@@ -1,0 +1,12 @@
+#Necessário:
+pip install customtkinter requests
+
+#Não necessita de Sqlite3 pois já vem com o python
+
+#Para fazer a compilação via terminal se mostrar o terminal após compilar
+
+#Para baixar o compilador:
+pip install pyinstaller
+
+#Compilar sem o terminal em segundo plano:
+pyinstaller CadSmiith.py --noconsole
