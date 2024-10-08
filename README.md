@@ -29,9 +29,10 @@ Copiar o repositorio completo do código e ficará assim:
 -CadSmiith.py
 -requirements.txt
 -README.md
+
 -usuario.db*
 ```
-*O Arquivo usuario.db é criado quando rodar o script*
+**O Arquivo usuario.db é criado quando rodar o script*
 
 Após instalar todas as dependências, copie e cole o código abaixo para executar o sistema:
 
