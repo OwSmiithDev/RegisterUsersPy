@@ -55,7 +55,9 @@ pyinstaller CadSmiith.py --noconsole
 ## 🛠️ Construído com Python no Visual Code.
 
 Python 3.11
+
 Tkinter
+
 API de CEP
 
 
