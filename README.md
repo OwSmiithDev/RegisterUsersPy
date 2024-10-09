@@ -28,7 +28,7 @@ Copiar o repositorio completo do código e ficará assim:
 ```
 **O Arquivo usuario.db é criado quando rodar o script*
 
-Execute o código abaixo para instalar o CustomTkinter e Requests:
+Crie um ambiente virtual e execute o código abaixo para instalar o CustomTkinter e Requests:
 
 ```
 pip install customtkinter requests
