@@ -17,12 +17,6 @@ requests: Para a busca do endereço com base no CEP.
 
 ### 🔧 Instalação
 
-Execute o código abaixo para instalar o CustomTkinter e Requests:
-
-```
-pip install customtkinter requests
-```
-
 Copiar o repositorio completo do código e ficará assim:
 
 ```
@@ -33,6 +27,12 @@ Copiar o repositorio completo do código e ficará assim:
 -usuario.db*
 ```
 **O Arquivo usuario.db é criado quando rodar o script*
+
+Execute o código abaixo para instalar o CustomTkinter e Requests:
+
+```
+pip install customtkinter requests
+```
 
 Após instalar todas as dependências, copie e cole o código abaixo para executar o sistema:
 
