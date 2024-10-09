@@ -1,4 +1,4 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 # Sistema de Gerenciamento de Usuários
 
@@ -62,17 +62,28 @@ pyinstaller CadSmiith.py --noconsole
 
 ## 🛠️ Construído com Python no Visual Code.
 
-Python 3.11
 
-Tkinter
+![Badge em Desenvolvimento](https://img.shields.io/badge/Python-3.11-blue)
 
-API de CEP
+![Badge em Desenvolvimento](https://img.shields.io/badge/TKinter-blue)
 
+![Badge em Desenvolvimento](https://img.shields.io/badge/ViaCEP-API-blue)
 
 ## ✒️ Autores
 
-* **Marcos Smiith** - (https://github.com/OwSmiithDev)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OwSmiithDev">
+        <img src="https://avatars.githubusercontent.com/u/179263914?v=4" border="0" width="100px">
+        <br>
+        <sub>
+          <b>Marcos Smiith</b>
+        </sub>
+      </a>
+    </td>
+</tr>
+</table>
 
 ## 🎁 Expressões de gratidão
 
